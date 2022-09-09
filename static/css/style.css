@@ -1,0 +1,15 @@
+body {
+
+    color: #f7f7f7;
+  }
+
+  <body class="bg-dark">
+  <form class="bg-dark">
+  <ul class="bg-dark">
+  <li class="bg-dark">
+
+  .jumbotron {
+    background-image: url("../images/nasa.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+  }
